@@ -63,4 +63,4 @@ These terms may be updated. The new version will be posted on this page with a n
 
 ## 11. Contact
 
-Questions about these terms: [open an issue on GitHub](https://github.com/djcooter-prog/Stilva/issues).
+Questions about these terms: email [stilvabot@gmail.com](mailto:stilvabot@gmail.com), or [open an issue on GitHub](https://github.com/djcooter-prog/Stilva/issues).

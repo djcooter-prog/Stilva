@@ -72,7 +72,7 @@ Stilva does not sell, rent or trade your data, and doesn't share it with anyone 
 - **Ask what's stored about you**: you can ask for a copy.
 - **Ask for deletion**: you can ask for your data, or a whole server's data, to be deleted. Moderation records may be kept if a server's staff still need them for safety reasons. Server staff can also remove their own server's data by asking.
 
-To make a request, [open an issue on GitHub](https://github.com/djcooter-prog/Stilva/issues). You only need to include your Discord user ID (and the server ID, for a server request). Don't post anything private in the issue. If the request needs private details, say so and the operator will arrange a private way to talk.
+To make a request, email [stilvabot@gmail.com](mailto:stilvabot@gmail.com). Include your Discord user ID (and the server ID, for a server request) so your data can be found. Requests are usually answered within 30 days.
 
 ## Children
 
@@ -84,6 +84,6 @@ If this policy changes, the new version will be posted on this page with a new "
 
 ## Contact
 
-Questions about this policy: [open an issue on GitHub](https://github.com/djcooter-prog/Stilva/issues).
+Questions about this policy: email [stilvabot@gmail.com](mailto:stilvabot@gmail.com), or [open an issue on GitHub](https://github.com/djcooter-prog/Stilva/issues) for anything that doesn't need to be private.
 
 See also the [Terms of Service](../terms/).
