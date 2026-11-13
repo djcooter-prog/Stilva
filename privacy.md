@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Stilva Privacy Policy
 
-_Last updated: 13 November 2026_
+_Last updated: 13 November 2026 (feedback is now collected in the Fable Kingdoms server)_
 
 This policy explains what information the Stilva Discord bot ("Stilva", "the bot") and its web dashboard collect, why, and what you can do about it. Stilva is a hobby project run by one person (the "operator"). It is not a company and does not sell or share your data for advertising.
 
@@ -27,8 +27,8 @@ What Stilva stores depends on which features a server uses and what you do with 
 | Word filter and anti-spam | Message text is read as it arrives and checked, but **not saved** | To remove blocked words and stop spam |
 | Events | The event details, its creator's user ID and display name, and the user IDs of people who said they're going | To show who's going and send reminders |
 | Trivia | Your points per server | For the leaderboard |
-| Feedback | The text you send, its category, your user ID and username, and the time | So the server staff and the operator can read and act on it |
-| Feature votes | Ideas you post (title and description), your user ID and display name, and which ideas you voted on | To run the vote and show the results |
+| Feedback | The text you send, whether it's a bug or a suggestion, your user ID and username, which server you sent it from, and the time | So the operator can read and act on it. It's posted in the feedback forum of the Fable Kingdoms Discord server, showing your username and the name of the server you sent it from |
+| Feature votes | Ideas you post (title and description), your user ID and display name, and which ideas you voted on | To run the vote and show the results. Feature votes happen in the Fable Kingdoms Discord server |
 | Reaction roles, buttons, access groups and verification | Which reactions and buttons a server has set up. Your roles themselves are held by Discord, not by Stilva | To give and remove roles when you react or click |
 | Creator alerts | The display name and profile link (for example a Twitch or YouTube channel) a creator submits, and whether it's approved | To post "now live" or "new video" alerts |
 | Fable Kingdoms (game) | Your player record (user ID and server ID) and everything you do in the game: your settlement, buildings, troops, research, armies, battles, trades, messages from the game and scores | To run the game |
@@ -63,6 +63,7 @@ All data is stored in a database on the operator's own computer. It is not store
 - **The operator**, to run and fix the bot.
 - **Server staff** (people with Manage Server permission) can see their own server's data in the dashboard, such as moderation records, feedback and alert submissions.
 - **Other members** can see what's meant to be public in that server, such as event sign-ups, leaderboards, idea votes and game rankings.
+- **Members of the Fable Kingdoms Discord server** can see the feedback posted in its feedback forum (with the sender's username and server name) and its feature votes, wherever they were sent from.
 
 Stilva does not sell, rent or trade your data, and doesn't share it with anyone else unless the law requires it.
 
